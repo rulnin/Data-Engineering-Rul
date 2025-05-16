@@ -1,6 +1,6 @@
-# 👋 Hi, I'm [Your Name] – Aspiring Data Engineer
+# 👋 Hi, I'm Arul – Aspiring Data Engineer
 
-Welcome to my GitHub! I'm a passionate data professional with a strong interest in **data engineering**, **data pipelines**, and **automated data workflows**. With a background in Information Systems and hands-on experience in system implementation and data systems within the manufacturing industry, I'm building robust data solutions that turn raw data into meaningful insights.
+Welcome to my GitHub! I'm a passionate data professional with a strong interest in **data engineering**, **data pipelines**, and **automated data workflows**. With a background in Information Systems and hands-on experience in system implementation and data systems within the industry, I'm building robust data solutions that turn raw data into meaningful insights.
 
 ---
 
@@ -21,35 +21,34 @@ I’m continuously learning and currently exploring cloud-based data tools (GCP,
 
 Here are some of the projects I've built that demonstrate my technical skills and interest in data engineering:
 
-### 📊 [Manufacturing Data Pipeline Project](https://github.com/yourusername/manufacturing-data-pipeline)
-> *Tools: Airflow, Python, PostgreSQL, DBT, Metabase, Docker*
+### 📊 [Jakarta Air Quality Data Pipeline Project](https://github.com/rulnin/Air-Quality-App)
+> *Tools: Python, DBeaver, DuckDB, Plotly Dash*
 
-- Scraped public manufacturing production data from [TradingEconomics](https://tradingeconomics.com/country-list/car-production)
-- Built an **automated ETL pipeline** using Apache Airflow
-- Modeled data with **dbt**, stored it in **PostgreSQL**, and visualized KPIs with **Metabase**
-- Dockerized the entire workflow for easy deployment
+- Data Extraction: Fetching real-time Jakarta air quality data from OpenAQ using python.
+- Data Transformation: Cleaning and processing data using DuckDB for fast and efficient handling.
+- Data Visualization: Creating a simple and interactive dashboard with Plotly Dash.
+  
+### 🧹 [Data Warehouse ETL Project](https://github.com/rulnin/Data-Engineer-IDXPartners)
+> *Tools: Talen Open Studio, SQL Server*
 
-### 🧹 [Retail Sales Data Cleaning and Transformation](https://github.com/yourusername/retail-sales-etl)
-> *Tools: Pandas, SQL, Talend*
+- Data Extraction: Fetching data from various sources (excel, csv, database).
+- Data Transformation: Create an job in the talend application to move data from sources and merge data.
+- Data Report: Create a Stored Procedure (SP) with parameters to get data summary quickly.
 
-- Cleaned messy sales data from multiple sources (CSV, Excel, and database)
-- Implemented transformation logic using Talend ETL
-- Loaded clean data into a central warehouse for BI analysis
+### 📁 [Stock Market Data Pipeline](https://github.com/rulnin/Stock-Market-Pipeline)
+> *Tools: Python, Airflow, MinIO, Spark, PostgreSQL, Metabase*
 
-### 📁 [CSV to BigQuery Pipeline Using Mage](https://github.com/yourusername/mage-csv-to-bigquery)
-> *Tools: Mage, Google BigQuery, Looker Studio*
-
-- Processed raw CSV files into structured datasets
-- Automated transformation with **Mage workflows**
-- Connected results to **Looker Studio** for interactive dashboards
+- Data Extraction: Ingest stock market data from external API.
+- Data Transformation: Processing data with Spark (cleaning, type casting, aggregations).
+- Data Visualization: Create a stock market dashboard showing current trends..
 
 ---
 
 ## 💡 Why Me?
 
-- ✔️ Strong foundation in information systems and 3+ years working in data and system roles in the manufacturing sector
-- ✔️ Proficient in SQL, Python, and data orchestration tools (Airflow, Mage)
-- ✔️ Clear communicator and a fast learner with a passion for building things that matter
+- ✔️ Strong foundation in information systems and 2+ years working in data and system roles in the inudsty.
+- ✔️ Proficient in SQL, Python, and data orchestration tools.
+- ✔️ Clear communicator and a fast learner with a passion for building things that matter.
 
 ---
 
