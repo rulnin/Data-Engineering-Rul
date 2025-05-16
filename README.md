@@ -17,6 +17,40 @@ I’m continuously learning and currently exploring cloud-based data tools (GCP,
 
 ---
 
+## 🧰 Tools & Technologies I Use
+
+Here are the data engineering tools I’ve mastered, along with their core functions:
+
+### 🧑‍💻 Programming & Data Processing
+- **Python**: Core scripting for ETL, APIs, data cleaning, and automation
+- **R**: Data analysis, statistical computing, and dashboarding
+- **Pandas**: Data wrangling and transformation for structured data
+
+### 🗃️ Data Orchestration & ETL
+- **Apache Airflow**: Workflow orchestration and task scheduling
+- **Talend Open Studio**: Visual ETL development for integrating various data sources
+- **DBT (Data Build Tool)**: Data transformation and modeling in SQL-based workflows
+
+### 🛢️ Databases & Query Languages
+- **SQL and NoSQL**: Data querying and manipulation
+- **PostgreSQL, MongoDB, MySQL, SQL Server, DBeaver**: RDBMS systems for structured data storage and querying
+- **Snowflake, Google BigQuery**: Scalable cloud data warehouses for analytical workloads
+
+### 📊 Data Visualization & BI Tools
+- **Metabase**: Open-source BI dashboarding
+- **Plotly Dash, Shiny, Streamlit**: Python and R-based dashboard apps for data storytelling
+- **Looker Studio, Tableau**: Interactive dashboards and data reporting for business insights
+
+### ⚙️ DevOps & Collaboration
+- **Docker**: Containerization for reproducible and scalable environments
+- **Git / GitHub**: Version control and collaborative development
+- **Slack**: Team communication and collaboration in data projects
+
+### 🔥 Big Data
+- **Apache Spark**: Distributed data processing for large-scale analytics
+
+---
+
 ## 🧰 My Data Engineering Portfolio
 
 Here are some of the projects I've built that demonstrate my technical skills and interest in data engineering:
