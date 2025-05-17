@@ -74,7 +74,14 @@ Here are some of the projects I've built that demonstrate my technical skills an
 
 - Data Extraction: Ingest stock market data from external API.
 - Data Transformation: Processing data with Spark (cleaning, type casting, aggregations).
-- Data Visualization: Create a stock market dashboard showing current trends..
+- Data Visualization: Create a stock market dashboard showing current trends.
+
+### 📁 [Airbnb Analytics Engineering Project – Berlin](https://github.com/rulnin/Analytics-Engineering-AIRBNB)
+> *Tools: Python, DBT, Snowflake*
+
+- Data Extraction: Download the Berlin dataset and load it into a Snowflake raw schema.
+- Data Transformation: Perform data modeling and transformation using dbt.
+- Data Visualization: The final dbt models reside in a Snowflake schema and are ready to power BI tools or ad-hoc analysis.
 
 ---
 
