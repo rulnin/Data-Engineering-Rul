@@ -55,14 +55,14 @@ Here are the data engineering tools I’ve mastered, along with their core funct
 
 Here are some of the projects I've built that demonstrate my technical skills and interest in data engineering:
 
-### 📊 [Jakarta Air Quality Data Pipeline Project](https://github.com/rulnin/Air-Quality-App)
+### 📁 [Jakarta Air Quality Data Pipeline Project](https://github.com/rulnin/Air-Quality-App)
 > *Tools: Python, DBeaver, DuckDB, Plotly Dash*
 
 - Data Extraction: Fetching real-time Jakarta air quality data from OpenAQ using python.
 - Data Transformation: Cleaning and processing data using DuckDB for fast and efficient handling.
 - Data Visualization: Creating a simple and interactive dashboard with Plotly Dash.
   
-### 🧹 [Data Warehouse ETL Project](https://github.com/rulnin/Data-Engineer-IDXPartners)
+### 📁 [Data Warehouse ETL Project](https://github.com/rulnin/Data-Engineer-IDXPartners)
 > *Tools: Talen Open Studio, SQL Server*
 
 - Data Extraction: Fetching data from various sources (excel, csv, database).
@@ -82,6 +82,13 @@ Here are some of the projects I've built that demonstrate my technical skills an
 - Data Extraction: Download the Berlin dataset and load it into a Snowflake raw schema.
 - Data Transformation: Perform data modeling and transformation using dbt.
 - Data Visualization: The final dbt models reside in a Snowflake schema and are ready to power BI tools or ad-hoc analysis.
+
+### 📁 [Inventory Data Analytics ETL Project](https://github.com/rulnin/Inventory-App)
+> *Tools: Python, Mysql, Dash*
+
+- Data Extraction: Fetching stock data from ERP system.
+- Data Transformation: Perform data transformation using inventory algorithms with Python.
+- Data Visualization: Create a dashboard application for inventory data with Plotly Dash.
 
 ---
 
