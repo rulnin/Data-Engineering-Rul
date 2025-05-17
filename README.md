@@ -39,7 +39,7 @@ Here are the data engineering tools I’ve mastered, along with their core funct
 ### 📊 Data Visualization & BI Tools
 - **Metabase**: Open-source BI dashboarding
 - **Plotly Dash, Shiny, Streamlit**: Python and R-based dashboard apps for data storytelling
-- **Looker Studio, Tableau**: Interactive dashboards and data reporting for business insights
+- **Looker Studio, Tableau, Microsoft Report Builder**: Interactive dashboards and data reporting for business insights
 
 ### ⚙️ DevOps & Collaboration
 - **Docker**: Containerization for reproducible and scalable environments
