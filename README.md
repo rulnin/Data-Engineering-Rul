@@ -94,7 +94,7 @@ Here are some of the projects I've built that demonstrate my technical skills an
 
 ## 💡 Why Me?
 
-- ✔️ Strong foundation in information systems and 2+ years working in data and system roles in the inudsty.
+- ✔️ Strong foundation in information systems and 2+ years working in data and system roles in the industy.
 - ✔️ Proficient in SQL, Python, and data orchestration tools.
 - ✔️ Clear communicator and a fast learner with a passion for building things that matter.
 
