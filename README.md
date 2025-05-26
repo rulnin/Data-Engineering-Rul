@@ -96,7 +96,7 @@ Here are some of the projects I've built that demonstrate my technical skills an
 This project demonstrates advanced SQL skills through the analysis of airline operational data. It includes queries to determine flight seat availability, booking patterns, aircraft usage, and more. The dataset mimics real-world airline systems, such as ticketing, boarding, and scheduling.
 
 ### 📁 [Retail Project](https://github.com/rulnin/DE-Retail)
-> *Tools: Python, Google BigQuery, DBT, Soda, Metabase, Docker*
+> *Tools: Python, Airflow, Google BigQuery, DBT, Soda, Metabase, Docker*
 
 - Data Extraction: Fetching Retail data from Kaggle.
 - Data Transformation: Perform data transformation using DBT and Soda.
